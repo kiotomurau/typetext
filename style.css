@@ -3,9 +3,7 @@ html, body {
 }
 
 body {
-  
-  font-family: Arial Black;
-  
+  font-family: 'Arial Black'; 
   display: flex;
   justify-content: center;
   align-items: center;
